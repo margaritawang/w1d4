@@ -1,3 +1,4 @@
+//first exercise
 var array = [10, 2, 5, 1, 9];
 var newArray = array.sort(function(a,b) {
   return a - b;
@@ -5,6 +6,7 @@ var newArray = array.sort(function(a,b) {
 
 console.log(newArray);
 
+//second exercise
 var students = [
   { id: 1, name: "bruce",    age: 40 },
   { id: 2, name: "zoidberg", age: 22 },
